@@ -1,0 +1,7 @@
+====== Grands jeux ======
+
+[[fiches:gabarit|Gabarit "fiche d'animation"]]
+
+| ^ Âge ^ Effectif ^ Durée ^ Lieu ^
+^ [[fiches:grands_jeux:poule_renard_vipere|Poule-Renard-Vipère]] | À partir de 8 ans | 18-30 joueurs | 30-45min | Grand espace relativement dégagé |
+^ [[fiches:grands_jeux:zagamore|Zagamore]] | À partir de 10 ans | 20-40 joueurs | 30-90m | Grand espace, permettant de se cacher (bois, vallons) |

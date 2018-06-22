@@ -1,0 +1,6 @@
+====== Demandes ======
+
+Utilise cette page pour demander à un administrateur de réaliser une action que tu ne peux pas faire.
+
+  * **Exemple (ne pas supprimer) :** lister le jeu ''fiches:grands_jeux:poule_renard_vipere'' dans la catégorie ''fiches:grands_jeux''
+  * 

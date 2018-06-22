@@ -1,0 +1,17 @@
+====== Guide de publication ======
+
+**Merci de lire attentivement ce guide avant de commencer à participer à ce wiki !**
+
+En effet, afin que le site conserve une certaine cohérence, il est nécessaire de suivre des règles communes, notamment pour : les adresses des pages, leur présentation (parties et mise en forme), ...
+
+===== Création d'une page =====
+
+Tu veux créer une fiche d'animation pour le jeu "poule-renard-vipère" (aussi abrégé PRV).
+
+  - Dans le menu à gauche, clique sur la catégorie à laquelle appartient ton contenu. Pour cet exemple, il s'agit de [[fiches:grands_jeux|Fiches d'animation --> Grands jeux]].
+  - Ouvre le gabarit dans un nouvel onglet, puis reviens à la page de la catégorie.
+  - Dans la barre d'adresse de ton navigateur (Chrome, Firefox, ...), rajoute le titre de ta page en minuscules, sans accents ni espaces. Par exemple, ''[[fiches:grands_jeux:poule_renard_vipere|wikanim.ga/fiches:grands_jeux:poule_renard_vipere]]''.
+  - À droite, clique sur le bouton "Créer cette page" (représenté par un crayon papier avec un "plus").
+  - Dans la case contenu, copie-colle le gabarit.
+  - Tu peux maintenant rédiger ton contenu, tout en respectant le gabarit.
+  - Demande à ce que ton contenu soit listé dans sa catégorie, en utilisant la page de [[requests|demandes]].

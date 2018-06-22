@@ -1,0 +1,18 @@
+WikAnim est un wiki créé et maintenu par [[https://louis.hostux.fr|Louis Guidez]].
+
+Son but est de regrouper des fiches d'animation, réflexions ou tout autre contenu pouvant être utile à un animateur pour préparer un séjour.
+
+<WRAP center round info 60%>
+Tu peux exporter les pages en PDF, en cliquant sur le bouton à gauche.
+</WRAP>
+
+
+====== Libre ======
+
+Sauf mention contraire, le contenu publié sur ce wiki est libre de droits. Tu peux enregistrer ses pages, le modifier, t'en inspirer pour créer tes propres ressources, ... sans aucune restriction !
+
+//(mais c'est quand même sympa de mentionner la source et le nom des rédacteurs)//
+
+====== Collaboratif ======
+
+N'importe qui peut contribuer à ce wiki. Pour cela, il suffit de t'[[start?do=register|enregistrer]] puis de suivre le [[guide_de_publication|guide de publication]].

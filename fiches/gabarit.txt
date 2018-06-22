@@ -1,0 +1,34 @@
+====== Gabarit "fiche animation" ======
+
+Le code ci-dessous doit être le point de départ de ta fiche animation.
+
+<code>
+====== Nom de l'animation ======
+
+Catégorie : [[lien_categorie|Nom de la catégorie (tel que dans le menu à gauche)]]
+
+^ Âge ^ Effectif ^ Durée ^ Lieu ^
+| Tranche d'âge | Nombre de joueurs | Durée du jeu | Description rapide du lieu nécessaire à l'activité |
+
+Expliquer brièvement (quelques phrases / paragraphes) le principe et les objectifs du jeu.
+
+===== Objectifs pédagogiques =====
+
+===== Moyens humains et matériels =====
+
+===== Déroulement =====
+
+Expliquer le déroulement de l'activité. Pour un grand jeu, on peut suivre le plan ci-dessous :
+
+==== Préparation ====
+
+==== Déroulement ====
+
+==== Fin du jeu ====
+
+==== Variantes ====
+
+===== Évaluation =====
+
+Sur quels critères peut-on évaluer l'activité, une fois réalisée ? -> repenser aux objectifs, et à une manière de les évaluer
+</code>

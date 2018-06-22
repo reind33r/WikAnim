@@ -1,0 +1,87 @@
+====== Zagamore ======
+
+Catégorie : [[fiches:grands_jeux|Grands jeux]]
+
+^ Âge ^ Effectif ^ Durée ^ Lieu ^
+| À partir de 10 ans | 20-40 joueurs | 30-90m | Grand espace, permettant de se cacher (bois, vallons, éléments urbains) |
+
+Le Zagamore se joue à deux équipes, également constituées. Chacun des joueurs appartient à une catégorie de personnages (dans cette fiche, empruntés à l'univers de la //fantasy//). Le but du jeu est de capturer le roi de l'équipe adverse, mais attention, tout le monde n'est pas égal !
+
+===== Objectifs pédagogiques =====
+
+  * Mettre en place des stratégies
+  * Communiquer au sein d'une équipe
+  * Développer le sens de l'observation
+
+===== Moyens matériels et humains =====
+
+<WRAP group>
+<WRAP half column>
+==== Matériel ====
+
+  * Cartes personnages (cartonnées / plastifiées)
+  * //Facultatif :// éléments pour distinguer les équipes : foulards, papier crépon, maquillage, ...
+</WRAP>
+
+<WRAP half column>
+==== Animateurs ====
+
+Au moins 2 animateurs.
+</WRAP>
+</WRAP>
+
+===== Déroulement =====
+
+==== Préparation ====
+
+En premier lieu, définir clairement les limites du terrain.
+
+Ensuite, les joueurs sont répartis en deux équipes égales, puis séparées à deux extrémités du terrain qui représenteront leurs bases (de sorte qu'elles ne puissent pas se voir ni s'entendre). Dans chaque équipe, on distribue les cartes personnage selon la répartition ci-dessous :
+
+^ Nombre de joueurs dans chaque équipe ^ 10 ^ 11 ^ 12 ^ 13 ^ 14 ^ 15 ^ 16 ^ 17 ^ 18 ^ 19 ^ 20 ^
+^ Roi                                  | 1                                          |||||||||||
+^ Elfes                                | 2  ||||||||                             3          |||
+^ Nains                                | 3  |||||                 4                      ||||||
+^ Zagamores                            | 4  | 5  | 6  | 7  | 8  | 8  | 9  | 10 | 10 | 11 | 12 |
+
+Sauf stratégie spécifique, c'est aussi le moment de cacher son roi.
+
+==== Déroulement ====
+
+<WRAP centeralign right round box>
+{{ :fiches:grands_jeux:zagamore_rangs.svg }}
+Rangs
+</WRAP>
+
+La partie peut commencer sur un coup de sifflet, "3-2-1-Go", ...
+
+Les joueurs peuvent se déplacer librement (dans les limites du terrain). Lorsque deux joueurs se croisent, ils peuvent s'ignorer ou essayer de se toucher.
+
+Lorsqu'un joueur se fait toucher, les deux joueurs se montrent leur carte. Si leur rang est égal, ils se saluent poliment (poignée de main, bise, ... selon ce qui a été défini en début de partie) et reprennent leur chemin. Sinon, le personnage de rang supérieur (voir diagramme ci-contre) fait prisonnier l'autre joueur et l'emmène à sa base.
+
+Les prisonniers forment une chaîne fermée, attachée à un point fixe de la base. Pour les libérer, il suffit de toucher un maillon de la chaîne.
+
+==== Fin du jeu ====
+
+Le jeu se termine lorsque le roi de l'équipe adverse est capturé, ou après une éventuelle limite de temps.
+==== Variantes ====
+
+=== Avec des vies ===
+
+Au début du jeu, chaque joueur dispose d'une vie (matérialisée par d'autres cartes, des bouts de tissu, ...). Chaque roi dispose d'un stock (identique) de vies.
+
+Dans cette variante, plus de prison ni de prisonniers : lorsqu'un joueur rencontre un personnage de rang inférieur, il lui prend simplement une vie.
+
+  * Lorsqu'un joueur est tué, il peut retourner voir son roi pour récupérer une vie.
+  * Un joueur ne peut pas posséder plus de trois vies d'adversaire ; lorsqu'il en a 3, il doit aller les donner à son roi.
+
+La fin du jeu est identique : il suffit qu'un zagamore capture le roi.
+
+===== Évaluation =====
+
+^ Objectif ^0^1^2^
+^ Développement de stratégies | Aucune concertation | Les joueurs élaborent des stratégies qui n'évoluent pas dans le jeu, ou peu efficaces | Les joueurs élaborent des stratégies plus élaborées, tenant compte de l'évolution du jeu |
+^ Communication | Les joueurs ne communiquent pas | Les joueurs échangent au début de la partie (élaboration d'une stratégie, ...) | Les joueurs se communiquent des informations pendant la partie (rangs des adversaires, nécessité de libérer la prison, stratégie) |
+^ Observation | Le jeu se termine par écoulement du temps (le roi n'est jamais découvert) | Le roi est découvert ||
+
+La durée des parties peut également être un indicateur, mais il faut l'interpréter avec précaution. Une partie courte peut être signe d'une amélioration de stratégie (les joueurs sont plus efficaces), d'une meilleure observation... mais peut-être le roi était-il simplement mal caché ? À interpréter au cas-par-cas.
